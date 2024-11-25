@@ -94,6 +94,39 @@ I decided to take this course because it offers:
 
 ---
 
+## 📂 Repository Structure
+
+The project structure is organized as follows:
+
+```
+web-development-bootcamp-2024/
+│
+├── notes/                # Lecture notes
+│
+├── projects/             # Code for projects
+│   ├── CSS/              # Projects exploring advanced CSS
+│   ├── JavaScript/       # JavaScript projects
+│   ├── HTML/             # Projects using HTML & CSS
+│   └── Backend/          # Backend development projects
+│
+├── .gitignore            # Ignored files
+├── README.md             # This file
+```
+
+---
+
+## 📓 Notes
+
+The `notes/` directory contains important lecture notes that highlight the core concepts I am learning in the course. These notes are categorized by topic, including:
+
+- **HTML/CSS Notes**: Key points on HTML structure, tags, CSS styling, and layout techniques.
+- **JavaScript Notes**: Essential syntax, data structures, functions, and JS-specific concepts.
+- **React & Node.js Notes**: React components, hooks, state management, and Node.js setup and routing.
+
+These notes are meant to be a quick reference for me as I continue through the course and build projects.
+
+---
+
 ## 📈 My Goals
 
 - **Build a professional portfolio** with real-world projects that showcase my skills.
