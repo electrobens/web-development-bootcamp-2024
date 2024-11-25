@@ -13,16 +13,17 @@ The course covers:
 - Full-Stack Projects
 
 ## Repository Structure
+```
 web-development-bootcamp-2024/
 ├── notes/              # Lecture notes
 ├── projects/           # Code for projects
 │   ├── HTML/           # Projects using HTML & CSS
 │   ├── CSS/            # Projects exploring advanced CSS
 │   ├── JavaScript/     # JavaScript projects
-│   ├── Backend/        # Backend development projects
+│   └── Backend/        # Backend development projects
 ├── .gitignore          # Ignored files
 └── README.md           # This file
-
+```
 ## How to Use This Repo
 
 1. **Explore Notes**:
